@@ -7,6 +7,7 @@ for i in len(a):
 	print str(i+1)+") "+a[i]
 	
 	
+
 print "Enter interface number you want to spoof MAC of "
 mac_num=int(raw_input())
 if mac_num>len(a):
